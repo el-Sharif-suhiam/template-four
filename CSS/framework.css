@@ -1,0 +1,100 @@
+
+/*font */
+.fn-12 {
+    font-size: 12px;
+}
+.fn-14 {
+    font-size: 14px;
+}
+.fn-20 {
+    font-size: 20px;
+}
+.txt-c {
+    text-align: center;
+}
+.fw-normal {
+    font-weight: normal;
+}
+
+/* box */
+.rad-6 {
+    border-radius: 6px;
+}
+.rad-10 {
+    border-radius: 10px;
+}
+.rad-half {
+    border-radius: 50%;
+}
+.d-flex {
+    display: flex;
+}
+.d-grid {
+    display: grid;
+}
+.gap-10 {
+    gap: 10px;
+}
+.gap-20 {
+    gap: 20px;
+}
+.flex-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.flex-between {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.warp {
+    flex-wrap: wrap;
+}
+
+/* padding margin */
+.p-10 {
+    padding: 10px;
+}
+.p-20 {
+    padding: 20px;
+}
+.p-6 {
+    padding: 6px;
+}
+.mr-10 {
+    margin: 10px;
+}
+.mr-20 {
+    margin: 20px;
+}
+.mrb-20 {
+    margin-bottom: 20px;
+}
+.mrb-40 {
+    margin-bottom: 40px;
+}
+/* ******************* */
+.c-black {
+    color:black;
+}
+.c-gray {
+    color: gray;
+}
+.bg-eee {
+    background-color: #eee;
+}
+.width-full {
+    width: 100%;
+}
+.pos-relative {
+    position: relative;
+}
+content {
+    overflow: hidden;
+}
+.box-p {
+    font-size: 14px;
+    margin-top: 10px;
+    color: #a1a1a1;
+}
